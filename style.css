@@ -13,7 +13,7 @@ html {
     --fs16: 1.125rem;
     --fs20: 1.3125rem;
     --fsl26: 1.625rem;
-    --fs30:1.875rem;
+    --fs30: 1.875rem;
     --fs32: 2rem;
 
 
@@ -152,7 +152,7 @@ a.btn100:active {
 }
 
 @media screen and (max-width: 600px) {
-    h1{
+    h1 {
         margin-bottom: 1rem;
     }
 
@@ -183,11 +183,11 @@ a.btn100:active {
         letter-spacing: 5px;
     }
 
-    .desc{
+    .desc {
         margin-bottom: 1.8rem;
     }
 
-    .price{
+    .price {
         gap: 1.1rem;
         margin-bottom: 1.3rem;
     }
@@ -196,5 +196,6 @@ a.btn100:active {
         font-weight: 500;
         padding-top: .85rem;
         padding-bottom: .85rem;
-        
-}}
+
+    }
+}
