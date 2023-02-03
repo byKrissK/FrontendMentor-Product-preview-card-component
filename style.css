@@ -89,7 +89,7 @@ a:active {
 }
 
 .img-desktop {
-    width: 50%;
+    min-width: 50%;
 }
 
 .img-mobile {
