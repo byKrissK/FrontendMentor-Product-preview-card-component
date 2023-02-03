@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://github.com/byKrissK/FrontendMentor-Product-preview-card-component)
+- Solution URL: [Solution](https://github.com/byKrissK/FrontendMentor-Product-preview-card-component)
+- Live Site URL: [Live Site](https://bykrissk.github.io/FrontendMentor-Product-preview-card-component/)
 
 
 ## My process
