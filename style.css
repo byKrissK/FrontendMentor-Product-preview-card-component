@@ -134,7 +134,7 @@ a.btn100:active {
 
 .attribution {
     font-family: 'Montserrat', sans-serif;
-    ;
+    color: var(--neu-clr-grayish-blue);
     font-size: var(--fs14);
     text-align: center;
     letter-spacing: 1px;
@@ -196,6 +196,10 @@ a.btn100:active {
         font-weight: 500;
         padding-top: .85rem;
         padding-bottom: .85rem;
+    }
 
+    .attribution p,
+    .attribution a{
+        font-size: var(--fs12);
     }
 }
