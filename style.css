@@ -147,6 +147,7 @@ a.btn100:active {
 }
 
 .attribution a:hover,
+.attribution a:focus,
 .attribution a:active {
     color: hsl(228, 45%, 60%);
 }
